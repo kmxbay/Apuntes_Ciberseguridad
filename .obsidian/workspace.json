@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "6eb71d8b48308329",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd905cc9c9e607ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bee1df21f43f302b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Búsqueda de vulnerabilidades.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Búsqueda de vulnerabilidades"
+            }
+          },
+          {
+            "id": "e86e6f6089ded9a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Búsqueda de vulnerabilidades.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Búsqueda de vulnerabilidades"
+            }
+          },
+          {
+            "id": "0f5f0236f59229ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Búsqueda de vulnerabilidades.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Búsqueda de vulnerabilidades"
+            }
+          },
+          {
+            "id": "5d9c3d03f01ab0ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/SQLi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQLi"
+            }
+          },
+          {
+            "id": "2014b75506bd6827",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Log Poissoning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Log Poissoning"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9dd3ef0065da871",
+    "type": "split",
+    "children": [
+      {
+        "id": "a124214ff6cc30ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90cec6ebefa92196",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "93d6050ce356af17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "6856ca5d4f81bedd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5
+  },
+  "right": {
+    "id": "368cd4bf3185f731",
+    "type": "split",
+    "children": [
+      {
+        "id": "3790870a994d0f2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe25526e12b0f632",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-11-11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 2024-11-11"
+            }
+          },
+          {
+            "id": "771fb4d96742c8c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-11-11.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 2024-11-11"
+            }
+          },
+          {
+            "id": "03570a888659d3d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "010ea3e28732c4c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-11-11.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 2024-11-11"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "90cec6ebefa92196",
+  "lastOpenFiles": [
+    "Pentesting/SQLi.md",
+    "Pentesting/Log Poissoning.md",
+    "Pentesting/John The Ripper.md",
+    "Pentesting/Fuerza bruta.md",
+    "Pentesting/Enumerar directorios.md",
+    "Pentesting/Diccionarios.md",
+    "Pentesting/Búsqueda de vulnerabilidades.md",
+    "MAQUINA OVERPASS (Obtener id_rsa modificando cookies en web, ssh2john para cracking de ir_rsa y escalada privilegios permisos suid con exploit de pkexec).md",
+    "Análisis de resultados/CVSS 4.0.md",
+    "Introducción/Modelo OSI.md",
+    "Introducción/Inventario de Activos.md",
+    "Introducción/IDS.md",
+    "Introducción/Hardening.md",
+    "Introducción/Factores de autenticación.md",
+    "Introducción/DevSecOps.md",
+    "Introducción/Cifrar o Encriptar.md",
+    "Introducción/Cifrado Asimétrico.md",
+    "Introducción/Ataques y Vulnerabilidades.md",
+    "Introducción/Amenazas Persistentes APT.md",
+    "Análisis de resultados/CVSS 4.0 img/Pasted image 20241201000051.png",
+    "Misc/Compartir archivos.md",
+    "Misc/Desarrollar estrategia.md",
+    "Misc/Apuntes de pivotting.md",
+    "Misc/Carpetas y permisos con find.md",
+    "Análisis de resultados/CVSS 4.0 img/Pasted image 20241201000043.png",
+    "Análisis de resultados/CVSS 4.0 img/Pasted image 20241201000004.png",
+    "Análisis de resultados/CVSS 4.0 img",
+    "Análisis de resultados/CVSS 4.0 img/Pasted image 20241130235940.png",
+    "Análisis de resultados/CVSS 4.0 img/Pasted image 20241130235858.png",
+    "Análisis de resultados/CVSS 4.0 img/Pasted image 20241130235821.png",
+    "Análisis de resultados/CVSS 4.0 img/Pasted image 20241201000032.png",
+    "Análisis de resultados/CVSS 4.0 img/Pasted image 20241201000021.png",
+    "Análisis de resultados/CVSS 4.0 img/Pasted image 20241201000014.png",
+    "Análisis de resultados",
+    "Misc/Apuntes SQLi.md",
+    "Misc/Preparación para maquinas Docker.md",
+    "Misc",
+    "Pentesting",
+    "my_Pentesting",
+    "Sin título 1.canvas",
+    "2024-11-11.md",
+    "Sin título.canvas",
+    "Introducción"
+  ]
+}

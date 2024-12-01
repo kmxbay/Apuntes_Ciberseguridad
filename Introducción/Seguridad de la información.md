@@ -1,0 +1,3 @@
+La seguridad de la información se enfoca en proteger la confidencialidad, integridad y disponibilidad de la información, independientemente de su forma o ubicación. Esto incluye la protección de activos intangibles como la información que está en la cabeza o escritos, como conocimientos, ideas, secretos comerciales, etc.
+
+La seguridad de la información es un concepto que abarca la protección de la información en todas sus formas, incluyendo la información que está en la cabeza o escritos. Esto incluye medidas como la clasificación de la información, el control de acceso, la encriptación, la gestión de riesgos, entre otros.
