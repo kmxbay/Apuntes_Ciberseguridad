@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Carpetas y permisos con find.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Carpetas y permisos con find"
+              "title": "README"
             }
           }
         ],
@@ -236,11 +236,13 @@
   },
   "active": "a29976912fb55501",
   "lastOpenFiles": [
+    "Misc/revShell.md",
+    "README.md",
+    "Misc/Carpetas y permisos con find.md",
     "Misc/Apuntes SQLi.md",
     "Misc/Apuntes de pivotting.md",
     "Misc/Preparación para maquinas Docker.md",
     "Misc/Tratamiento de tty.md",
-    "revShell.md",
     "Misc/Compartir archivos.md",
     "Sin nombre",
     "Tratamiento de tty",
@@ -262,9 +264,7 @@
     "Introducción/Cifrar o Encriptar.md",
     "Introducción/Cifrado Asimétrico.md",
     "Introducción/Ataques y Vulnerabilidades.md",
-    "Introducción/Amenazas Persistentes APT.md",
     "Análisis de resultados/CVSS 4.0 img/Pasted image 20241201000051.png",
-    "Misc/Desarrollar estrategia.md",
     "Análisis de resultados/CVSS 4.0 img/Pasted image 20241201000043.png",
     "Análisis de resultados/CVSS 4.0 img/Pasted image 20241201000004.png",
     "Análisis de resultados/CVSS 4.0 img",
