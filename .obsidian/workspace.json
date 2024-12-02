@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Log Poissoning.md",
+                "file": "Misc/Compartir archivos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Log Poissoning"
+              "title": "Compartir archivos"
+            }
+          },
+          {
+            "id": "a29976912fb55501",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Carpetas y permisos con find.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Carpetas y permisos con find"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -220,17 +234,25 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "90cec6ebefa92196",
+  "active": "a29976912fb55501",
   "lastOpenFiles": [
+    "Misc/Apuntes SQLi.md",
+    "Misc/Apuntes de pivotting.md",
+    "Misc/Preparación para maquinas Docker.md",
+    "Misc/Tratamiento de tty.md",
+    "revShell.md",
+    "Misc/Compartir archivos.md",
+    "Sin nombre",
+    "Tratamiento de tty",
+    "Pentesting/Enumerar directorios.md",
+    "Pentesting/Búsqueda de vulnerabilidades.md",
     "Pentesting/SQLi.md",
     "Pentesting/Log Poissoning.md",
-    "Pentesting/John The Ripper.md",
     "Pentesting/Fuerza bruta.md",
-    "Pentesting/Enumerar directorios.md",
-    "Pentesting/Diccionarios.md",
-    "Pentesting/Búsqueda de vulnerabilidades.md",
-    "MAQUINA OVERPASS (Obtener id_rsa modificando cookies en web, ssh2john para cracking de ir_rsa y escalada privilegios permisos suid con exploit de pkexec).md",
     "Análisis de resultados/CVSS 4.0.md",
+    "Pentesting/John The Ripper.md",
+    "Pentesting/Diccionarios.md",
+    "MAQUINA OVERPASS (Obtener id_rsa modificando cookies en web, ssh2john para cracking de ir_rsa y escalada privilegios permisos suid con exploit de pkexec).md",
     "Introducción/Modelo OSI.md",
     "Introducción/Inventario de Activos.md",
     "Introducción/IDS.md",
@@ -242,10 +264,7 @@
     "Introducción/Ataques y Vulnerabilidades.md",
     "Introducción/Amenazas Persistentes APT.md",
     "Análisis de resultados/CVSS 4.0 img/Pasted image 20241201000051.png",
-    "Misc/Compartir archivos.md",
     "Misc/Desarrollar estrategia.md",
-    "Misc/Apuntes de pivotting.md",
-    "Misc/Carpetas y permisos con find.md",
     "Análisis de resultados/CVSS 4.0 img/Pasted image 20241201000043.png",
     "Análisis de resultados/CVSS 4.0 img/Pasted image 20241201000004.png",
     "Análisis de resultados/CVSS 4.0 img",
@@ -256,13 +275,10 @@
     "Análisis de resultados/CVSS 4.0 img/Pasted image 20241201000021.png",
     "Análisis de resultados/CVSS 4.0 img/Pasted image 20241201000014.png",
     "Análisis de resultados",
-    "Misc/Apuntes SQLi.md",
-    "Misc/Preparación para maquinas Docker.md",
     "Misc",
     "Pentesting",
     "my_Pentesting",
     "Sin título 1.canvas",
-    "2024-11-11.md",
     "Sin título.canvas",
     "Introducción"
   ]
